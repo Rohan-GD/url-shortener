@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+
+{
+  "longUrl":"https://www.amazon.in/Square-Enix-Marvels-Avengers-PS4/dp/B07YSTD51Q/ref=sr_1_9?dchild=1&keywords=PS4+console&qid=1596261025&sr=8-9"
+}
